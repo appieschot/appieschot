@@ -8,7 +8,7 @@
   -  Together with the community we build guidance around extending Microsoft 365
 - ⌨️ I co-manage [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) 
   - The cross-platform CLI to manage Microsoft 365 and SharePoint Framework projects
-- ✍️ I share my experiences and thoughts on [my blog](https://www.cloudappie.nl/) and on a webinar serries [Selected Tech](https://www.selectedtech.show/)
+- ✍️ I share my experiences and thoughts on [my blog](https://www.cloudappie.nl/) and on a webinar series [Selected Tech](https://www.selectedtech.show/)
 - 💬 Ask me about Microsoft 365 Development
 - 📫 You can reach me on ![Twitter](https://img.shields.io/badge/appieschot%20-1DA1F2?style=flat&logo=twitter&logoColor=007ACC) or [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/albertjanschot/)
 - 🌱 I’m currently learning more on AI and the Microsoft 365 Power Platform 
