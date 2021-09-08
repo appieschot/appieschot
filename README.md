@@ -29,8 +29,20 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/appieschot">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=appieschot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=appieschot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/appieschot">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=appieschot&theme=algolia">
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/appieschot">
+  <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appieschot&layout=compact&title_color=00ADFE&text_color=fff&icon_color=007bff&bg_color=050F2C">
 </a>
 </p>
