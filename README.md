@@ -2,8 +2,8 @@
 
 ### Hi there 👋 I'm Albert-Jan Schot
 
-- 💼 I work at [Portiva](https://www.portiva.nl) as the CTO
-  -  That just means sharing my time between focussing on: our technical strategy, technical presales and research and development
+- 💼 I work at [Blis.digital](https://blisdigital.com/) as the CTO Low-Code Solutions
+  -  That just means sharing my time between focussing on: our technical strategy, technical presales and research and development and building cool stuff as part of **Fusion Development** 🔥
 - 💻 I'm part of [Microsoft 365 Patterns and Practices](https://pnp.github.io/) 
   -  Together with the community we build guidance around extending Microsoft 365
 - ⌨️ I co-manage [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) 
