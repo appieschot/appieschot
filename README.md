@@ -8,6 +8,10 @@
   -  Together with the community we build guidance around extending Microsoft 365
 - ⌨️ I co-manage [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) 
   - The cross-platform CLI to manage Microsoft 365 and SharePoint Framework projects
+- 🥑 Co-Organizer of the [DIWUG](https://www.diwug.nl/) 
+  - The Dutch 🇳🇱 Information Worker User Group; sharing all things Microsoft 365
+- 🥑 Co-Organizer of the [PowerAddictsNL]([https://www.diwug.nl/](http://www.poweraddicts.nl/)) 
+  - The Dutch 🇳🇱 Power Addicts User Group; sharing all things Power Platform
 - ✍️ I share my experiences and thoughts on [my blog](https://www.cloudappie.nl/) and on a webinar series [Selected Tech](https://www.selectedtech.show/)
 - 💬 Ask me about Microsoft 365 Development or Power Platform
 - 📫 You can reach me on ![Twitter](https://img.shields.io/badge/appieschot%20-1DA1F2?style=flat&logo=twitter&logoColor=007ACC) or [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/albertjanschot/)
