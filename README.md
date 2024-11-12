@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Albert-Jan Schot
 
-- 💼 I work at [BLIS.digital](https://blisdigital.com/) as the CTO Low-Code Solutions
+- 💼 I work at [Blis Digital](https://blisdigital.com/) as the CTO Low-Code Solutions
   -  That just means sharing my time between focussing on: our technical strategy, technical presales and research and development and building cool stuff as part of **Fusion Development** 🔥
 - 💻 I'm part of [Microsoft 365 Patterns and Practices](https://pnp.github.io/) 
   -  Together with the community we build guidance around extending Microsoft 365
